@@ -25,7 +25,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 4,
+   "execution_count": 1,
    "metadata": {
     "collapsed": true
    },
@@ -70,7 +70,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 5,
+   "execution_count": 62,
    "metadata": {
     "collapsed": false
    },
@@ -89,7 +89,6 @@
     "    reader = csv.reader(f)\n",
     "    rows = [row for row in reader]\n",
     "    sat_dict = {key:[] for key in rows[0]}\n",
-    "\n",
     "    \n",
     "    #floatify\n",
     "    rows = [[float(cell) if cell.isdigit() else cell for cell in row] for row in rows]\n",
