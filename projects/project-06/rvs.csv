@@ -1,0 +1,19 @@
+,largest_cities,url,mean_price,median_price
+0,New York,https://newyork.craigslist.org/search/sss?query=rv,13192.0465116,1500.0
+1,Los Angeles,https://losangeles.craigslist.org/search/sss?query=rv,52027.1956522,9600.0
+2,Chicago,https://chicago.craigslist.org/search/sss?query=rv,8679.28358209,375.0
+3,Houston,https://houston.craigslist.org/search/sss?query=rv,38804.7142857,26053.0
+4,Philadelphia,https://philadelphia.craigslist.org/search/sss?query=rv,20019.1123596,3000.0
+5,Phoenix,https://phoenix.craigslist.org/search/sss?query=rv,30047.923913,26465.0
+6,San Antonio,https://sanantonio.craigslist.org/search/sss?query=rv,37431.0,25489.0
+7,San Diego,https://sandiego.craigslist.org/search/sss?query=rv,15935.7468354,280.0
+8,Dallas,https://dallas.craigslist.org/search/sss?query=rv,23038.3,19995.0
+9,Austin,https://austin.craigslist.org/search/sss?query=rv,29665.9047619,25557.0
+10,Jacksonville,https://jacksonville.craigslist.org/search/sss?query=rv,11781.4318182,449.0
+11,San Francisco,https://sanfrancisco.craigslist.org/search/sss?query=rv,25961.2222222,22497.0
+12,Indianapolis,https://indianapolis.craigslist.org/search/sss?query=rv,6589.42857143,2245.0
+13,Columbus,https://columbus.craigslist.org/search/sss?query=rv,9258.03125,1325.0
+14,Charlotte,https://charlotte.craigslist.org/search/sss?query=rv,9250.91764706,550.0
+15,Detroit,https://detroit.craigslist.org/search/sss?query=rv,22726.8888889,19999.0
+16,El Paso,https://elpaso.craigslist.org/search/sss?query=rv,40031.9784946,14995.0
+17,Seattle,https://seattle.craigslist.org/search/sss?query=rv,37734.0,24999.0
