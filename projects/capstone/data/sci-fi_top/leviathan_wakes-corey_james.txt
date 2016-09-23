@@ -1,25 +1,3 @@
-
-JAMES S. A. COREY
-
-LEVIATHAN WAKES
-
-(BOOK ONE OF THE EXPANSE)
-
-
-
-Acknowledgments
-
-
-Like most children, this book took a village. I would like to express my deep gratitude to my agents, Shawna and Danny, and to my editors DongWon and Darren. Also instrumental in the early formation of the book were Melinda, Emily, Terry, Ian, George, Steve, Walter, and Victor, of the New Mexico Critical Mass writers group, and also Carrie, who read an early draft. An additional thanks goes to Ian, who helped with some of the math, and who is responsible for none of the mistakes I made understanding it. I also owe an enormous debt to Tom, Sake Mike, Non-Sake Mike, Porter, Scott, Raja, Jeff, Mark, Dan, and Joe. Thanks, guys, for doing the beta testing. And finally, a special thanks to the Futurama writers and Bender Bending Rodriguez for babysitting the kid while I wrote.
-
-
-
-For Jayne and Kat, who encourage me to daydream about spaceships
-
-
-
-
-
 Prologue: Julie
 
 The Scopuli had been taken eight days ago, and Julie Mao was finally ready to be shot.
@@ -111,8 +89,6 @@ An outcropping of the thing shifted toward her. Compared to the whole, it seemed
 “Help me,” it said.
 
 
-
-Chapter One: Holden
 
 A hundred and fifty years before, when the parochial disagreements between Earth and Mars had been on the verge of war, the Belt had been a far horizon of tremendous mineral wealth beyond viable economic reach, and the outer planets had been beyond even the most unrealistic corporate dream. Then Solomon Epstein had built his little modified fusion drive, popped it on the back of his three-man yacht, and turned it on. With a good scope, you could still see his ship going at a marginal percentage of the speed of light, heading out into the big empty. The best, longest funeral in the history of mankind. Fortunately, he’d left the plans on his home computer. The Epstein Drive hadn’t given humanity the stars, but it had delivered the planets.
 
@@ -340,7 +316,6 @@ As the shipwide comm system clicked to life and McDowell began explaining the si
 
 
 
-Chapter Two: Miller
 
 Detective Miller sat back on the foam-core chair, smiling gentle encouragement while he scrambled to make sense of the girl’s story.
 
@@ -563,7 +538,6 @@ This thing with Julie Mao? It was a sideshow.
 
 
 
-Chapter Three: Holden
 
 After nearly two full days in high gravity, Holden’s knees and back and neck ached. And his head. Hell, his feet. He walked in the crew hatch of the Knight just as Naomi was climbing up the ladder from its cargo bay. She smiled and gave him a thumbs-up.
 
@@ -746,8 +720,6 @@ His radio crackled to life on the outside channel, McDowell’s voice filling hi
 
 
 
-Chapter Four: Miller
-
 Miller was halfway through his evening meal when the system in his hole chirped. He glanced at the sending code. The Blue Frog. It was a port bar catering to the constant extra million noncitizens of Ceres that advertised itself as a near-exact replica of a famous Earth bar in Mumbai, only with licensed prostitutes and legal drugs. Miller took another forkful of fungal beans and vat-grown rice and debated whether to accept connection.
 
 Should have seen this one coming, he thought.
@@ -928,7 +900,6 @@ Shaddid moved to one side, tapping her system interface. The screen went black. 
 
 
 
-Chapter Five: Holden
 
 Ten minutes at two g, and Holden’s head was already starting to ache. But McDowell had called them home at all haste. The Canterbury was warming up its massive drive. Holden didn’t want to miss his ride.
 
@@ -1295,8 +1266,6 @@ The radio was set to broadcast on full power. The data package was ready to tran
 
 
 
-Chapter Six: Miller
-
 The cart sped through the tunnel, siren masking the whine of motors. Behind them, they left curious civilians and the scent of overheated bearings. Miller leaned forward in his seat, willing the cart to go faster. They were three levels and maybe four kilometers from the station house.
 
 “Okay,” Havelock said. “I’m sorry, but I’m missing something here.”
@@ -1503,8 +1472,6 @@ He went to the fallen man. The OPA tattoo was smeared red. Miller knelt.
 From the look in the man’s eyes, Miller knew they did.
 
 
-
-Chapter Seven: Holden
 
 Holden could drink coffee at half a g. Actually sit and hold a mug under his nose and let the aroma drift up. Sip it slowly and not burn his tongue. Drinking coffee was one of the activities that didn’t make the transition to microgravity well, but at half a g, it was fine.
 
@@ -1720,7 +1687,6 @@ Holden pulled up the display. Six small signatures, yellow-orange shifting towar
 
 
 
-Chapter Eight: Miller
 
 Aggression against the Belt is what Earth and Mars survive on. Our weakness is their strength,” the masked woman said from Miller’s terminal screen. The split circle of the OPA draped behind her, like something painted on a sheet. “Don’t be afraid of them. Their only power is your fear.”
 
@@ -1905,8 +1871,6 @@ It had been sent from Luna, two weeks before James Holden and the Canterbury rai
 This sideshow was getting interesting.
 
 
-
-Chapter Nine: Holden
 
 
 The ships are still not responding,” Naomi said, punching a key sequence on the comm panel.
@@ -2132,8 +2096,6 @@ Amos poured the last of the tequila into everyone’s cups and held his up in a 
 “I guess we’ll fucking find out.”
 
 
-
-Chapter Ten: Miller
 
 Captain Shaddid tapped the tip of her middle finger against her thumb when she started getting annoyed. It was a small sound, soft as a cat’s paws, but ever since Miller first noticed her habit, it had seemed louder. Quiet as it was, it could fill her office.
 
@@ -2370,8 +2332,6 @@ Havelock leaned back, lips pressed thin and bloodless. Miller’s shrug asked a 
 “OPA’s not moving in on the criminals,” Miller said. “They’re moving in on the cops.”
 
 
-
-Chapter Eleven: Holden
 
 The Donnager was ugly.
 
@@ -2657,7 +2617,6 @@ The gauss round that killed Shed didn’t even make a noise. Like a magic trick,
 
 
 
-Chapter Twelve: Miller
 
 For twelve years, Miller had worked security. Violence and death were familiar companions to him. Men, women. Animals. Kids. Once he’d held a woman’s hand while she bled to death. He’d killed two people, could still see them die if he closed his eyes and thought about it. If anyone had asked him, he’d have said there wasn’t much left that would shake him.
 
@@ -2977,7 +2936,6 @@ Havelock was silent for a moment while the words filtered into his sleep-drunk m
 
 
 
-Chapter Thirteen: Holden
 
 Holden froze, watching the blood pump from Shed’s neck, then whip away like smoke into an exhaust fan. The sounds of combat began to fade as the air was sucked out of the room. His ears throbbed and then hurt like someone had put ice picks in them. As he fought with his couch restraints, he glanced over at Alex. The pilot was yelling something, but it didn’t carry through the thin air. Naomi and Amos had gotten out of their couches already, kicked off, and were flying across the room to the two holes. Amos had a plastic dinner tray in one hand. Naomi, a white three-ring binder. Holden stared at them for the half second it took to understand what they were doing. The world narrowed, his peripheral vision all stars and darkness.
 
@@ -3151,7 +3109,6 @@ They were halfway to the ship and Holden was starting to think they might make i
 
 
 
-Chapter Fourteen: Miller
 
 The Xinglong died stupid. Afterward, everyone knew she was one of thousands of small-time rock-hopping prospector ships. The Belt was lousy with them: five- or six-family operations that had scraped together enough for a down payment and set up operations. When it happened, they’d been three payments behind, and their bank-Consolidated Holdings and Investments-had put a lien on the ship. Which, common wisdom had it, was why they had disabled her transponder. Just honest folks with a rust bucket to call their own trying to keep flying.
 
@@ -3399,7 +3356,6 @@ He opened his terminal’s encryption program, routed it to his communication su
 
 
 
-Chapter Fifteen: Holden
 
 Holden grabbed for Naomi. He struggled to orient himself as the two of them spun across the bay with nothing to push off of and nothing to arrest their flight. They were in the middle of the room with no cover.
 
@@ -3652,7 +3608,6 @@ It was half an hour before the reply came.
 
 
 
-Chapter Sixteen: Miller
 
 Miller watched the feed from Mars along with the rest of the station. The podium was draped in black, which was a bad sign. The single star and thirty stripes of the Martian Congressional Republic hung in the background not once, but eight times. That was worse.
 
@@ -3907,7 +3862,6 @@ Frowning, Miller kept a hand on the cart. Julie. He’d been talking about Julie
 
 
 
-Chapter Seventeen: Holden
 
 The Tachi’s galley had a full kitchen and a table with room for twelve. It also had a full-size coffeepot that could brew forty cups of coffee in less than five minutes whether the ship was in zero g or under a five-g burn. Holden said a silent prayer of thanks for bloated military budgets and pressed the brew button. He had to restrain himself from stroking the stainless steel cover while it made gentle percolating noises.
 
@@ -4118,8 +4072,6 @@ Alex stuffed his into the pocket of his flight suit. Naomi wrinkled her nose and
 
 
 
-Chapter Eighteen: Miller
-
 The death of the Donnager hit Ceres like a hammer striking a gong. Newsfeeds clogged themselves with high-power telescopic footage of the battle, most if not all of it faked. The Belt chatter swam with speculation about a secret OPA fleet. The six ships that had taken down the Martian flagship were hailed as heroes and martyrs. Slogans like We did it once and we can do it again and Drop some rocks cropped up even in apparently innocuous settings.
 
 The Canterbury had stripped away the complacency of the Belt, but the Donnager had done something worse. It had taken away the fear. The Belters had gotten a sudden, decisive, and unexpected win. Anything seemed possible, and the hope seduced them.
@@ -4290,7 +4242,6 @@ Shaddid marched by and tapped him on the shoulder. He sighed, rose from his chai
 
 
 
-Chapter Nineteen: Holden
 
 Fred stood alone, hand outstretched, a warm and open smile on his broad face. There were no guards with assault rifles behind him. Holden shook Fred’s hand and then started laughing. Fred smiled and looked confused but let Holden keep a grip on his hand, waiting for Holden to explain what was so funny.
 
@@ -4496,7 +4447,6 @@ For a time, he displaced the ghosts in his head with violent vengeance fantasies
 
 
 
-Chapter Twenty: Miller
 
 Miller sat at an open café, the tunnel wide above him. Grass grew tall and pale in the public commons, and the ceiling glowed full-spectrum white. Ceres Station had come unmoored. Orbital mechanics and inertia kept it physically where it had always been, but the stories about it had changed. The point defenses were the same. The tensile strength of the port blast doors was the same. The ephemeral shield of political status was all they’d lost, and it was everything.
 
@@ -4619,7 +4569,6 @@ Life is risk, she said.
 
 
 
-Chapter Twenty-One: Holden
 
 Ships were small. Space was always at a premium, and even on a monster like the Donnager, the corridors and compartments were cramped and uncomfortable. On the Rocinante, the only rooms where Holden could spread out his arms without touching two walls were the galley and the cargo bay. No one who flew for a living was claustrophobic, but even the most hardened Belt prospector could recognize the rising tension of being ship-bound. It was the ancient stress response of the trapped animal, the subconscious knowledge that there was literally nowhere to go that you couldn’t see from where you were already standing. Getting off the ship at port was a sudden and sometimes giddying release of tension.
 
@@ -4912,7 +4861,6 @@ As Holden left the office, Fred was already on the comm with his machine-shop pe
 
 
 
-Chapter Twenty-Two: Miller
 
 The people-mover to Eros was small, cheap, and overcrowded. The air recyclers had the plastic-and-resin smell of long-life industrial models that Miller associated with warehouses and fuel depots. The lights were cheap LEDs tinted a false pink that was supposed to flatter the complexion but instead made everyone look like undercooked beef. There were no cabins, only row after row of formed laminate seating and two long walls with five-stacks of bunks that the passengers could hot-swap. Miller had never been on a cheapjack transport before, but he knew how they worked. If there was a fight, the ship’s crew would pump riot gas into the cabin, knock everyone out, and put anyone who’d been in the scuffle under restraint. It was a draconian system, but it did tend to keep passengers polite. The bar was always open and the drinks were cheap. Not long ago Miller would have found that enticing.
 
@@ -5087,7 +5035,6 @@ The tube station that arrived from the port had six wide doors, which emptied to
 
 
 
-Chapter Twenty-Three: Holden
 
 The casino level of Eros was an all-out assault on the senses. Holden hated it.
 
@@ -5218,8 +5165,6 @@ The other man laughed; it was a bitter, short sound, but with some real humor be
 “Nope. Name’s Miller.”
 
 
-
-Chapter Twenty-Four: Miller
 
 Miller looked at the dead man-the man he’d just killed-and tried to feel something. There was the trailing adrenaline rush still ramping up his heartbeat. There was a sense of surprise that came from walking into an unexpected firefight. Past that, though, his mind had already fallen into the long habit of analysis. One plant in the main room so Holden and his crew wouldn’t see anything too threatening. A bunch of trigger-happy yahoos in the stairwell to back her up. That had gone well.
 
@@ -5452,7 +5397,6 @@ Sematimba looked down the corridor. He nodded.
 
 
 
-Chapter Twenty-Five: Holden
 
 Miller gestured at Holden and headed for the elevator without waiting to see if he was following. The presumption irritated him, but he went anyway.
 
@@ -5748,7 +5692,6 @@ Miller looked at him, his lips a thin line.
 
 
 
-Chapter Twenty-Six: Miller
 
 
 Your police friend put a lockdown order on my ship,” Holden said. He sounded outraged.
@@ -5961,8 +5904,6 @@ The corridor turned and widened. The press of bodies lightened a little bit. Mil
 “Don’t go,” he said.
 
 
-
-Chapter Twenty-Seven: Holden
 
 What do you mean, don’t go?” Holden asked, yanking his elbow out of Miller’s grasp. “Somebody just nuked the station. This has escalated beyond our capacity to respond. If we can’t get to the Roci, we’re doing whatever they tell us to until we can.”
 
@@ -6221,7 +6162,6 @@ Miller slapped the magazine back into his gun and chambered a round.
 
 
 
-Chapter Twenty-Eight: Miller
 
 The first time Miller killed anyone was in his third year working security. He’d been twenty-two, just married, talking about having kids. As the new guy on the contract, he’d gotten the shit jobs: patrolling levels so high the Coriolis made him seasick, taking domestic disturbance calls in holes no wider than a storage bin, standing guard on the drunk tank to keep predators from raping the unconscious. The normal hazing. He’d known to expect it. He’d thought he could take it.
 
@@ -6450,8 +6390,6 @@ The space beyond, where Naomi and Alex and Amos had been, was empty.
 
 
 
-Chapter Twenty-Nine: Holden
-
 Fuck me,” Holden said. And a moment later: “They left us.”
 
 No. She had left him. Naomi had said she would, but confronted with the reality of it, Holden realized that he hadn’t really believed her. But here it was-the proof. The empty space where she used to be. His heart hammered and his throat tightened, breath coming in gasps. The sick feeling in his gut was either despair or his colon sloughing off its lining. He was going to die sitting outside a cheap hotel on Eros because Naomi had done exactly what she’d said she would. What he himself had ordered her to do. His resentment refused to listen to reason.
@@ -6563,8 +6501,6 @@ Holden spun to look at him in surprise, but Miller’s face told him the former 
 “Thirty men with machine guns and a clear line of sight. No cover to speak of for the last twenty meters or so,” Miller said. “We don’t get past that.”
 
 
-
-Chapter Thirty: Miller
 
 They sat on the floor with their backs to a bank of pachinko machines no one was playing, watching the ebb and flow of the violence around them like it was a soccer game. Miller’s hat was perched on his bent knee. He felt the vibration against his back when one of the displays cycled through its dupe-call. The lights glittered and glowed. Holden, beside him, was breathing hard, like he’d run a race. Out beyond them, like something from Hieronymous Bosch, the casino levels of Eros prepared for death.
 
@@ -6776,8 +6712,6 @@ Last chance, he thought, and he meant both the last chance to live and the last 
 
 
 
-Chapter Thirty-One: Holden
-
 Something was moving in Holden’s gut. He ignored it and kept his eyes on Miller’s back. The lanky detective barreled down the corridor toward the port, stopping occasionally at junctions to peek around the corner and look for trouble. Miller had become a machine. All Holden could do was try to keep up.
 
 Always the same distance ahead were the mercenaries who’d been guarding the exit from the casino. When they moved, Miller moved. When they slowed down, he slowed. They were clearing a path to the port, but if they thought that any of the citizens were getting too close, they’d probably open fire. They were definitely shooting anyone they ran into along the way. They’d already shot two people who’d run at them. Both had been vomiting brown goo. Where the hell did those vomit zombies come from so fast?
@@ -6932,7 +6866,6 @@ Amos stood in the airlock on the other side, an assault rifle in each hand and t
 
 
 
-Chapter Thirty-Two: Miller
 
 Miller’s mind reassembled slowly and with several false starts. In his dreams, he was fitting a puzzle together as the pieces kept changing shape, and each time, just as he was on the verge of slipping the whole mechanism together, the dream began again. The first thing he became aware of was the ache at the small of his back, then the heaviness of his arms and legs, then the nausea. The nearer he came to consciousness, the more he tried to postpone it. Imaginary fingers tried to complete the puzzle, and before he could make it all fit, his eyes opened.
 
@@ -7193,8 +7126,6 @@ He smiled at seeing the numbers change as his heart raced.
 
 
 
-Chapter Thirty-Three: Holden
-
 For five more days, Holden and Miller lay on their backs in sick bay while the solar system burned down around them. The reports of Eros’ death ran from massive ecological collapse brought about by war-related supply shortages, to covert Martian attack, to secret Belt bioweapon laboratory accident. Analysis from the inner planets had it that the OPA and terrorists like them had finally shown how dangerous they could be to innocent civilian populations. The Belt blamed Mars, or the maintenance crews of Eros, or the OPA for not stopping it.
 
 And then a group of Martian frigates blockaded Pallas, a revolt on Ganymede ended in sixteen dead, and the new government of Ceres announced that all ships with Martian registry docked on station were being commandeered. The threats and accusations, all set to the constant human background noise of war drums, moved on. Eros had been a tragedy and a crime, but it was finished, and there were new dangers popping up in every corner of human space.
@@ -7424,7 +7355,6 @@ Holden tapped his fingers on the back of Alex’s chair for a moment as he float
 
 
 
-Chapter Thirty-Four: Miller
 
 The environment suit was better than Miller was used to. He’d only done a couple walks outside during his years on Ceres, and the Star Helix equipment had been old back then: thick corrugated joints, separable air-supply unit, gloves that left his hands thirty degrees colder than the rest of his body. The Rocinante’s suits were military and recent, no bulkier than standard riot gear, with integrated life support that could probably keep fingers warm after a hand got shot off. Miller floated, one hand on a strap in the airlock, and flexed his fingers, watching the sharkskin pattern of the knuckle joints.
 
@@ -7778,7 +7708,6 @@ They were silent for a long moment. Holden spoke first.
 
 
 
-Chapter Thirty-Five: Holden
 
 I’ve found the comm logs,” Naomi said as Holden and Miller drifted into the room behind her.
 
@@ -8030,8 +7959,6 @@ It couldn’t stay that way forever.
 
 
 
-Chapter Thirty-Six: Miller
-
 The war stories flowed in. Miller watched the feeds five at a time, subscreens crowding the face of his terminal. Mars was shocked, amazed, reeling. The war between Mars and the Belt-the biggest, most dangerous conflict in the history of mankind-was suddenly a sideshow. The reactions of the talking heads of Earth security forces ran the gamut from calm, rational discussion of preemptive defense to foaming-at-the-mouth denunciations of Mars as a pack of baby-raping animals. The attack on Deimos had turned the moon into a slowly spreading ring of gravel in the moon’s old orbit, a smudge on the Martian sky, and with that, the game had changed again.
 
 Miller watched for ten hours as the attack became the blockade. The Martian navy, spread throughout the system, was turning home under heavy burn. The OPA feeds were calling it a victory, and maybe someone thought that was true. The pictures came through from the ships, from the sensor arrays. Dead warships, their sides ripped open by high-energy explosions, spinning out into their irregular orbital graves. Medical bays like the Roci’s filled with boys and girls half his age bleeding, burning, dying. Each cycle, new footage came in, new details of death and carnage. And each time some new clip appeared, he sat forward, hand on his mouth, waiting for the word to come. The one event that would signal the end of it all.
@@ -8257,7 +8184,6 @@ Miller nodded slowly. “How do you throw away the holy grail?”
 
 
 
-Chapter Thirty-Seven: Holden
 
 Alex had the Rocinante running at three-quarters of a g for two hours while the crew prepared and ate dinner. He would run it back up to three when the break was over, but in the meantime, Holden enjoyed standing on his own two legs at something not too far off from Earth gravity. It was a little heavy for Naomi and Miller, but neither of them complained. They both understood the need for haste.
 
@@ -8505,7 +8431,6 @@ Fred nodded.
 
 
 
-Chapter Thirty-Eight: Miller
 
 The observation deck looked out over the Nauvoo as the behemoth slowly came together. Miller sat on the edge of a soft couch, his fingers laced over his knee, his gaze on the immense vista of the construction. After his time on Holden’s ship and, before that, in Eros, with its old-style closed architecture, a view so wide seemed artificial. The deck itself was wider than the Rocinante and decorated with soft ferns and sculpted ivies. The air recyclers were eerily quiet, and even though the spin gravity was nearly the same as Ceres’, the Coriolis felt subtly wrong.
 
@@ -8752,7 +8677,6 @@ Miller left, pausing in the passageway between ship and station until he was sur
 
 
 
-Chapter Thirty-Nine: Holden
 
 The Rocinante hurtled through space like a dead thing, tumbling in all three axes. With the reactor shut down and all the cabin air vented, it radiated neither heat nor electromagnetic noise. If it weren’t for its speeding toward Thoth station significantly faster than a rifle shot, the ship would be indistinguishable from the rocks in the Belt. Nearly half a million kilometers behind it, the Guy Molinari screamed the Roci’s innocence to anyone who would listen, and fired its engines in a long slow deceleration.
 
@@ -9061,8 +8985,6 @@ Okay, Miller. Your turn.
 
 
 
-Chapter Forty: Miller
-
 Oi, Pampaw,” the kid in the crash couch to Miller’s right said. “Popped seal, you and bang, hey?”
 
 The kid’s combat armor was gray-green, articulated pressure seals at the joints and stripes across the front plates where a knife or flechette round had scraped the finish. Behind the face mask, the kid could have been fifteen. His hand gestures spoke of a childhood spent in vacuum suits, and his speech was pure Belt creole.
@@ -9249,8 +9171,6 @@ Fred laughed. It was mirthless.
 Dresden cocked his head. “I don’t know the reference.”
 
 
-
-Chapter Forty-One: Holden
 
 The Rocinante docked with Thoth station on the last gasps from her maneuvering thrusters. Holden felt the station’s docking clamps grab the hull with a thud, and then gravity returned at a low one-third g. The close detonation of a plasma warhead had torn off the outer door of the crew airlock and flooded the chamber with superheated gas, effectively welding it shut. That meant they’d be using the cargo airlock at the stern of the ship and spacewalking over to the station.
 
@@ -9483,8 +9403,6 @@ The room was silent. Fred was frowning, his arms crossed. Holden understood the 
 Oh, shit.
 
 
-
-Chapter Forty-Two: Miller
 
 Dresden didn’t see it coming. Even as Miller raised the pistol, the man’s eyes didn’t register a threat. All he saw was Miller with an object in his hand that happened to be a gun. A dog would have known to be scared, but not Dresden.
 
@@ -9725,8 +9643,6 @@ So, she said. Looks like it’s just you and me now.
 
 
 
-Chapter Forty-Three: Holden
-
 A Tycho worker in blue coveralls and a welding mask sealed up the hole in one of the galley bulkheads. Holden watched with his hand shielding his eyes from the harsh blue glare of the torch. When the plate steel was secured in place, the welder flipped her mask up to check the bead. She had blue eyes and a small mouth in a heart-shaped pixie face and a mop of red hair pulled into a bun. Her name was Sam, and she was the team leader on the Rocinante repair project. Amos had been chasing her for two weeks now with no success. Holden was glad, because the pixie had turned out to be one of the best mechanics he’d ever met, and he’d hate for her to focus on anything other than his ship.
 
 “It’s perfect,” he said to her as she ran one gloved hand over the cooling metal.
@@ -9955,7 +9871,6 @@ Holden leaned back in the booth and tried to remember to breathe. Naomi’s grin
 
 
 
-Chapter Forty-Four: Miller
 
 Miller sat by himself, staring out the wide observation windows without seeing the view. The fungal-culture whiskey on the low black table beside him remained at the same level in the glass as when he’d bought it. It wasn’t really a drink. It was permission to sit. There had always been a handful of drifters, even on Ceres. Men and women whose luck had run out. No place to go, no one to ask favors of. No connection to the vast net of humanity. He’d always felt a kind of sympathy for them, his spiritual kindred.
 
@@ -10199,8 +10114,6 @@ Fred’s breath grew slow and deep, his gaze flickering as if he were reading so
 “The Mormons are going to be pissed,” he said.
 
 
-
-Chapter Forty-Five: Holden
 
 Naomi talked in her sleep. It was one of a dozen things Holden hadn’t known about her before tonight. Even though they’d slept in crash couches a few feet apart on many occasions, he’d never heard it. Now, with her face against his bare chest, he could feel her lips move and the soft, punctuated exhalations of her words. He couldn’t hear what she was saying.
 
@@ -10495,7 +10408,6 @@ Once they’d left the office, Holden said, “I think Fred was half a second fr
 
 
 
-Chapter Forty-Six: Miller
 
 Miller had known when he’d taken Holden’s side against his new boss that there were going to be consequences. His position with Fred and the OPA was tenuous to start with, and pointing out that Holden and his crew were not only more dedicated but also more trustworthy than Fred’s people wasn’t the thing you did when you were kissing up. That it was the truth only made it worse.
 
@@ -10691,8 +10603,6 @@ But at least Julie would be there. Not really, but still.
 It didn’t hurt to dream.
 
 
-
-Chapter Forty-Seven: Holden
 
 Even the wet cellulose taste of reconstituted artificial scrambled eggs was not enough to ruin Holden’s warm, self-satisfied glow. He shoveled the faux eggs into his mouth, trying not to grin. Sitting at his left around the galley table, Amos ate with lip-smacking enthusiasm. To Holden’s right, Alex pushed the limp eggs around on his plate with a piece of equally fake toast. Across the table, Naomi sipped a cup of tea and looked at him from under her hair. He stifled the urge to wink at her.
 
@@ -10918,8 +10828,6 @@ Naomi made a small sound in the back of her throat, halfway between a chuckle an
 
 
 
-Chapter Forty-Eight: Miller
-
 You are, and you aren’t,” the Eros feed said through a semi-random drumming of static. “You are, and you aren’t. You are, and you aren’t.”
 
 The little ship shuddered and bumped. From a crash couch, one of the OPA techs called out a string of obscenities remarkable more for inventiveness than actual rancor. Miller closed his eyes, trying to keep the micro-g adjustments of their nonstandard docking from nauseating him. After days of joint-aching acceleration and an equally bruising braking routine, the small shifts and movements felt arbitrary and strange.
@@ -11056,8 +10964,6 @@ For the Nauvoo to change course at the last minute without falling apart would h
 And without so much as overcoming the grip of Miller’s magnetic boots, Eros Station had dodged.
 
 
-
-Chapter Forty-Nine: Holden
 
 Holy shit,” said Amos in a flat voice.
 
@@ -11304,7 +11210,6 @@ Miller did laugh now, a free, soft sound that someone who wasn’t piling on g c
 
 
 
-Chapter Fifty: Miller
 
 What do you mean you’re on Eros?” Holden said.
 
@@ -11470,7 +11375,6 @@ He took off the brakes, pushed, and went inside Eros for the last time.
 
 
 
-Chapter Fifty-One: Holden
 
 Holden knew that humans could tolerate extremely high g-forces over short durations. With proper safety systems, professional daredevils had sustained impacts in excess of twenty-five g’s and survived. The human body deformed naturally, absorbed energy in soft tissues, and diffused impacts across larger areas.
 
@@ -11662,7 +11566,6 @@ Miller’s voice was choppy, and half drowned by static, but not so garbled that
 
 
 
-Chapter Fifty-Two: Miller
 
 One. Two. Three.
 
@@ -11829,7 +11732,6 @@ The words were soft, apologetic. A hospice worker being gentle to the dying. An 
 
 
 
-Chapter Fifty-Three: Holden
 
 Actually, we’ve sort of figured out how to solve the problem,” Holden replied.
 
@@ -12091,8 +11993,6 @@ Holden shrugged, even though no one could see it.
 
 
 
-Chapter Fifty-Four: Miller
-
 I don’t and I don’t,” the voice of Eros muttered. Juliette Mao, talking in her sleep. “I don’t and I don’t and I don’t… ”
 
 “Come on,” Miller said. “Come on, you sonofabitch. Be here.”
@@ -12283,8 +12183,6 @@ Reflexively, he kissed the back of her hand. There was an ache starting deep in 
 “Don’t worry,” he said. “We’re gonna be fine.”
 
 
-
-Chapter Fifty-Five: Holden
 
 Holden dreamed.
 
