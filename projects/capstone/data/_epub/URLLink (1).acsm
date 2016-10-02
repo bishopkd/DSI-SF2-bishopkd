@@ -1,0 +1,28 @@
+<fulfillmentToken fulfillmentType="buy" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:18fe3022-eb24-4fd1-8f6c-e63140c013ca</distributor>
+  <operatorURL>http://acs4.shortcovers.com:8080/fulfillment</operatorURL>
+  <transaction>42bcda82-d319-42fa-acfb-f065b3d5b515</transaction>
+  <expiration>2016-09-30T04:20:22-04:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:e2f4ddf8-ce9d-41f4-8195-1eb98dbeff44</resource>
+    <resourceItem>1</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">One Wish</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Robyn Carr</dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Harlequin Enterprises Limited</dc:publisher>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">urn:uuid:e2f4ddf8-ce9d-41f4-8195-1eb98dbeff44</dc:identifier>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/epub+zip</dc:format>
+      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">en-US</dc:language>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:e2f4ddf8-ce9d-41f4-8195-1eb98dbeff44</resource>
+      <permissions>
+        <display/>
+        <excerpt/>
+        <print/>
+        <play/>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>ALiw1Rk6dEDWQKPH6i9+GgpCz7U=</hmac>
+</fulfillmentToken>

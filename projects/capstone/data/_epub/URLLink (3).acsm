@@ -1,0 +1,28 @@
+<fulfillmentToken fulfillmentType="buy" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:18fe3022-eb24-4fd1-8f6c-e63140c013ca</distributor>
+  <operatorURL>http://acs4.shortcovers.com:8080/fulfillment</operatorURL>
+  <transaction>4476dbf5-7437-4e03-aea8-b512304d8303</transaction>
+  <expiration>2016-09-30T04:20:53-04:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:9d252c17-db76-4e59-bcfc-fd405b7b8948</resource>
+    <resourceItem>1</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">The Rosie Project</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Graeme Simsion</dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Simon &amp; Schuster</dc:publisher>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">urn:uuid:9d252c17-db76-4e59-bcfc-fd405b7b8948</dc:identifier>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/epub+zip</dc:format>
+      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">En</dc:language>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:9d252c17-db76-4e59-bcfc-fd405b7b8948</resource>
+      <permissions>
+        <display/>
+        <excerpt/>
+        <print/>
+        <play/>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>AGKH+OB/U4x5+fcEatUwm5JBQ70=</hmac>
+</fulfillmentToken>
